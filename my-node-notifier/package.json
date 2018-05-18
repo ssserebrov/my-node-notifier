@@ -8,5 +8,13 @@
   },
   "devDependencies": {
     "@types/node": "^6.0.87"
+  },
+  "scripts": {
+    "test": "node test/sendMessages.js"
+  },
+  "dependencies": {
+    "https": "^1.0.0",
+    "https-proxy-agent": "^2.2.1",
+    "request": "^2.86.0"
   }
 }
