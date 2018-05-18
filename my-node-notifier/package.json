@@ -1,0 +1,12 @@
+{
+  "name": "my-node-notifier",
+  "version": "0.0.0",
+  "description": "my-node-notifier",
+  "main": "app.js",
+  "author": {
+    "name": "ASerebrov"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
